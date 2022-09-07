@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>GsfDEMO</title>
+    <link href="https://eanbear.github.io/fz.github.io/feed.xml" rel="self" />
+    <link href="https://eanbear.github.io/fz.github.io" />
+    <updated>2022-09-07T19:44:37+08:00</updated>
+    <author>
+        <name>Guansf</name>
+    </author>
+    <id>https://eanbear.github.io/fz.github.io</id>
+
+    <entry>
+        <title>Demo</title>
+        <author>
+            <name>Guansf</name>
+        </author>
+        <link href="https://eanbear.github.io/fz.github.io/demo.html"/>
+        <id>https://eanbear.github.io/fz.github.io/demo.html</id>
+
+        <updated>2022-09-07T19:44:37+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello Demo
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello Demo</p>
+<figure class="post__image"><img loading="lazy"  src="https://eanbear.github.io/fz.github.io/media/posts/1/Wei-Xin-Tu-Pian_20220828233304-removebg-preview.png" sizes="100vw" srcset="https://eanbear.github.io/fz.github.io/media/posts/1/responsive/Wei-Xin-Tu-Pian_20220828233304-removebg-preview-xs.png 300w ,https://eanbear.github.io/fz.github.io/media/posts/1/responsive/Wei-Xin-Tu-Pian_20220828233304-removebg-preview-sm.png 480w ,https://eanbear.github.io/fz.github.io/media/posts/1/responsive/Wei-Xin-Tu-Pian_20220828233304-removebg-preview-md.png 768w ,https://eanbear.github.io/fz.github.io/media/posts/1/responsive/Wei-Xin-Tu-Pian_20220828233304-removebg-preview-lg.png 1024w ,https://eanbear.github.io/fz.github.io/media/posts/1/responsive/Wei-Xin-Tu-Pian_20220828233304-removebg-preview-xl.png 1360w ,https://eanbear.github.io/fz.github.io/media/posts/1/responsive/Wei-Xin-Tu-Pian_20220828233304-removebg-preview-2xl.png 1600w"  alt="" width="594" height="420"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

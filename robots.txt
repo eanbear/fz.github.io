@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://eanbear.github.io/fz.github.io/sitemap.xml
